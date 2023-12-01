@@ -91,7 +91,9 @@ hr{
 
 }
 #c3{
-    padding: 4%;
+    margin-top: 5%;
+    padding-top: 4%;
+    padding: 3%;
     backdrop-filter: blur(4px);
     background-color: rgba(0, 0, 0, 0.507);
 }
@@ -122,7 +124,8 @@ strong{
 footer{
     text-align: center;
     background-color: black;
-    padding: 4%;
+    padding: 2%;
+    margin-top: 4%;
 }
 #c5{
     background-color: white;
@@ -191,4 +194,33 @@ footer{
     background-color: white;
     justify-content: space-evenly;
     
+}
+
+#c-d:hover{
+    background-color: black;
+    color: whitesmoke;
+}
+#card{
+    padding: 6%;
+    border-radius: 3%;
+    background-color: grey;
+    color: ghostwhite;
+    margin: 5%;
+    height: 50vh;
+}
+#card:hover{
+    background-color: rgba(184, 135, 11, 0.822);
+    color: whitesmoke;
+    backdrop-filter: blur(4px);
+    
+    transition-duration:4s;
+}
+#cf-2{
+    margin: 4%;
+    text-align: center;
+    
+}
+#services{
+    height: 15vh;
+
 }
