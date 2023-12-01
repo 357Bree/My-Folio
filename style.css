@@ -213,7 +213,7 @@ footer{
     color: whitesmoke;
     backdrop-filter: blur(4px);
     
-    transition-duration:4s;
+    transition-duration:1s;
 }
 #cf-2{
     margin: 4%;
