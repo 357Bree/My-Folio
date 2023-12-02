@@ -220,6 +220,29 @@ footer{
     text-align: center;
     
 }
+
+#link{
+    color: whitesmoke;
+}
+#cf-3{
+    padding: 1%;
+    align-items: center;
+    text-align:center ;
+    
+}
+#c-6{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    padding: 3%;
+    background-color: rgba(0, 0, 0, 0.582);
+    backdrop-filter: blur(4px);
+    color: darkgoldenrod;
+    
+}
+#c-7,#c-8{
+    padding: 3%;
+}
 #services{
     height: 15vh;
 
